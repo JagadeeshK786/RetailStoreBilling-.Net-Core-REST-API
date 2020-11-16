@@ -23,7 +23,12 @@ namespace StoreServices.Repo
         {
             return await _context.BillItems.Include(o=>o.Product).FirstOrDefaultAsync(b => b.Sno == itemId);
         }
-
+        
+        public async Task<IEnumerable<BillItem>> ListDetailAsync(string status)
+        {
+            return await _context.BillItems.Include(o => o.Product).Where(b => b.Status == status).AsNoTracking().ToListAsync();
+        }
+        
         public void Update(BillItem billItem)
         {
             _context.Entry(billItem).State = EntityState.Modified;
