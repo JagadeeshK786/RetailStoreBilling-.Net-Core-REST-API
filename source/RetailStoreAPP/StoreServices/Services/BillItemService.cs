@@ -27,7 +27,8 @@ namespace StoreServices
             var items = await _cache.GetOrCreateAsync(CacheKeys.BillItemsList, (entry) =>
             {
                 entry.AbsoluteExpirationRelativeToNow = TimeSpan.FromMinutes(1);
-                return _billItemRepo.ListAsync(ItemStatus.INPROGRESS.ToString());
+                return _billItemRepo.ListDetailAsync(ItemStatus.INPROGRESS.ToString());
+
             });
 
             //output validation
