@@ -10,6 +10,7 @@ namespace StoreDAC.Repositories
     {
         Task<BillItem> FindByIdAsync(long itemId);
         Task<IEnumerable<BillItem>> ListAsync(string billStatus);
+        Task<IEnumerable<BillItem>> ListDetailAsync(string status);
         public void Update(BillItem billItem);
 
     }
