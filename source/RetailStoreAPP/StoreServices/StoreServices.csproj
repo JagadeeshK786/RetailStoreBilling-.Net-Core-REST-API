@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="IServices\ILibraryAsset.cs" />
+    <Compile Remove="IServices\IPriorityService.cs" />
+    <Compile Remove="IServices\IRoleService.cs" />
+    <Compile Remove="IServices\ISCommentService.cs" />
+    <Compile Remove="IServices\IStatusService.cs" />
+    <Compile Remove="IServices\ITaskService.cs" />
+    <Compile Remove="IServices\ITeamService.cs" />
+    <Compile Remove="IServices\IUCommentService.cs" />
+    <Compile Remove="Repositories\LibraryAssetRepository.cs" />
+    <Compile Remove="Repositories\PriorityRepository.cs" />
+    <Compile Remove="Repositories\RoleRepository.cs" />
+    <Compile Remove="Repositories\SCommentRepository.cs" />
+    <Compile Remove="Repositories\StatusRepository.cs" />
+    <Compile Remove="Repositories\TaskRepository.cs" />
+    <Compile Remove="Repositories\TeamRepository.cs" />
+    <Compile Remove="Repositories\UCommentRepository.cs" />
+    <Compile Remove="Services\LibraryAssetService.cs" />
+    <Compile Remove="Services\PriorityService.cs" />
+    <Compile Remove="Services\RoleService.cs" />
+    <Compile Remove="Services\SCommentService.cs" />
+    <Compile Remove="Services\StatusService.cs" />
+    <Compile Remove="Services\TaskService.cs" />
+    <Compile Remove="Services\TeamService.cs" />
+    <Compile Remove="Services\UCommentService.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StoreDAC\StoreDAC.csproj" />
+  </ItemGroup>
+
+</Project>

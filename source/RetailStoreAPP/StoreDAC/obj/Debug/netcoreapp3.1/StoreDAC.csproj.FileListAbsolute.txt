@@ -1,0 +1,12 @@
+F:\C#_LAB\Uhlmann_Coding_Task\RetailStoreAPP\StoreDAC\obj\Debug\netcoreapp3.1\StoreDAC.csprojAssemblyReference.cache
+F:\C#_LAB\Uhlmann_Coding_Task\RetailStoreAPP\StoreDAC\obj\Debug\netcoreapp3.1\StoreDAC.AssemblyInfoInputs.cache
+F:\C#_LAB\Uhlmann_Coding_Task\RetailStoreAPP\StoreDAC\obj\Debug\netcoreapp3.1\StoreDAC.AssemblyInfo.cs
+F:\C#_LAB\Uhlmann_Coding_Task\RetailStoreAPP\StoreDAC\bin\Debug\netcoreapp3.1\StoreDAC.deps.json
+F:\C#_LAB\Uhlmann_Coding_Task\RetailStoreAPP\StoreDAC\bin\Debug\netcoreapp3.1\StoreDAC.dll
+F:\C#_LAB\Uhlmann_Coding_Task\RetailStoreAPP\StoreDAC\bin\Debug\netcoreapp3.1\StoreDAC.runtimeconfig.json
+F:\C#_LAB\Uhlmann_Coding_Task\RetailStoreAPP\StoreDAC\bin\Debug\netcoreapp3.1\StoreDAC.runtimeconfig.dev.json
+F:\C#_LAB\Uhlmann_Coding_Task\RetailStoreAPP\StoreDAC\obj\Debug\netcoreapp3.1\StoreDAC.genruntimeconfig.cache
+F:\C#_LAB\Uhlmann_Coding_Task\RetailStoreAPP\StoreDAC\bin\Debug\netcoreapp3.1\StoreDAC.pdb
+F:\C#_LAB\Uhlmann_Coding_Task\RetailStoreAPP\StoreDAC\obj\Debug\netcoreapp3.1\StoreDAC.dll
+F:\C#_LAB\Uhlmann_Coding_Task\RetailStoreAPP\StoreDAC\obj\Debug\netcoreapp3.1\StoreDAC.pdb
+F:\C#_LAB\Uhlmann_Coding_Task\RetailStoreAPP\StoreDAC\obj\Debug\netcoreapp3.1\StoreDAC.csproj.CoreCompileInputs.cache

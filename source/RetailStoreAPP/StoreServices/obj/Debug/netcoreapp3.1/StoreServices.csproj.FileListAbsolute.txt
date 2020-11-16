@@ -1,0 +1,12 @@
+F:\C#_LAB\Uhlmann_Coding_Task\RetailStoreAPP\StoreServices\obj\Debug\netcoreapp3.1\StoreServices.csprojAssemblyReference.cache
+F:\C#_LAB\Uhlmann_Coding_Task\RetailStoreAPP\StoreServices\obj\Debug\netcoreapp3.1\StoreServices.AssemblyInfoInputs.cache
+F:\C#_LAB\Uhlmann_Coding_Task\RetailStoreAPP\StoreServices\obj\Debug\netcoreapp3.1\StoreServices.AssemblyInfo.cs
+F:\C#_LAB\Uhlmann_Coding_Task\RetailStoreAPP\StoreServices\obj\Debug\netcoreapp3.1\StoreServices.csproj.CoreCompileInputs.cache
+F:\C#_LAB\Uhlmann_Coding_Task\RetailStoreAPP\StoreServices\bin\Debug\netcoreapp3.1\StoreServices.deps.json
+F:\C#_LAB\Uhlmann_Coding_Task\RetailStoreAPP\StoreServices\bin\Debug\netcoreapp3.1\StoreServices.dll
+F:\C#_LAB\Uhlmann_Coding_Task\RetailStoreAPP\StoreServices\bin\Debug\netcoreapp3.1\StoreServices.pdb
+F:\C#_LAB\Uhlmann_Coding_Task\RetailStoreAPP\StoreServices\bin\Debug\netcoreapp3.1\StoreDAC.dll
+F:\C#_LAB\Uhlmann_Coding_Task\RetailStoreAPP\StoreServices\bin\Debug\netcoreapp3.1\StoreDAC.pdb
+F:\C#_LAB\Uhlmann_Coding_Task\RetailStoreAPP\StoreServices\obj\Debug\netcoreapp3.1\StoreServices.csproj.CopyComplete
+F:\C#_LAB\Uhlmann_Coding_Task\RetailStoreAPP\StoreServices\obj\Debug\netcoreapp3.1\StoreServices.dll
+F:\C#_LAB\Uhlmann_Coding_Task\RetailStoreAPP\StoreServices\obj\Debug\netcoreapp3.1\StoreServices.pdb

@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Entities_old\**" />
+    <EmbeddedResource Remove="Entities_old\**" />
+    <None Remove="Entities_old\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="DBContext\RetailStoreDBContext_old.cs" />
+    <Compile Remove="IRepositories\ILibraryAsset.cs" />
+    <Compile Remove="IRepositories\IPriorityRepository.cs" />
+    <Compile Remove="IRepositories\IRoleRepository.cs" />
+    <Compile Remove="IRepositories\ISCommentRepository.cs" />
+    <Compile Remove="IRepositories\IStatusRepository.cs" />
+    <Compile Remove="IRepositories\ITaskRepository.cs" />
+    <Compile Remove="IRepositories\ITeamRepository.cs" />
+    <Compile Remove="IRepositories\IUCommentRepository.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>
