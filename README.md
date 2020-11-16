@@ -59,10 +59,12 @@ Below features are used for implementing this Application.
   * Several other features... 
 
 
-Application UI snapshot:
------------------------
+Application Swagger UI snapshot:
+-------------------------------
 
-Click the below link to see the WPF Application image.
+Click the below link to see the API's SwaggerUI image.
+
+https://github.com/JagadeeshK786/RetailStoreBilling-.Net-Core-REST-API-with-Swagger/blob/main/RetailStoreBillingApp_SwaggerUI_Snapshot.jpg
 
 Steps to build & run the Application:
 -------------------------------------
